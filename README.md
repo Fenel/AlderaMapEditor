@@ -7,21 +7,21 @@ http://www.uznam.net.pl/~fenel/AlderaMapEditor.zip
 
 # Keyboard functions
 
-Arrow Keys - move map
-A - smaller brush
-S - bigger brush
-Z - view upper level
-X - view lower level
-P - change tile properties (normal, no-player-versus-player, fully-safe)
-F - quick save
-G - enable/disable fog on lower levers
-M - choose mode (terrain or creatures inserting)
-1...9 - jump to n*100-tish entry on object list
-
-Left click - on map: insert current tile/creature OR on objects list: choose picked object as brush
-Middle click - on map: delete top object
-Right Click - on map: choose picked object as brush
+Arrow Keys - move map  
+A - smaller brush  
+S - bigger brush  
+Z - view upper level  
+X - view lower level  
+P - change tile properties (normal, no-player-versus-player, fully-safe)  
+F - quick save  
+G - enable/disable fog on lower levers  
+M - choose mode (terrain or creatures inserting)  
+1...9 - jump to n*100-tish entry on object list  
+  
+Left click - on map: insert current tile/creature OR on objects list: choose picked object as brush  
+Middle click - on map: delete top object  
+Right Click - on map: choose picked object as brush  
 
 # Final note
 
-To play on created map, copy all files from "world" catalogue to same catalogue in Aldera Server
+To play on created map, copy all files from "world" catalogue to same catalogue in Aldera Server  
