@@ -1,0 +1,16 @@
+name=Apprentice
+looktype=5
+corpse=140
+health=150
+maxHealth=150
+level=22
+experience=120
+speed=750
+meleeMaxDamage=100
+defence=10
+armor=30
+loot=294.30|chance=80000
+loot=221.1|chance=2000
+loot=262.1|chance=4000
+loot=274.1|chance=3000
+spell=2.50~1000|chance=5000

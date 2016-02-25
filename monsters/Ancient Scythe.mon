@@ -1,0 +1,17 @@
+name=Ancient Scythe
+looktype=17
+corpse=376
+health=2100
+maxHealth=2100
+level=75
+experience=1450
+speed=750
+meleeMaxDamage=225
+defence=23
+armor=65
+loot=294.100|chance=100000
+loot=294.100|chance=100000
+loot=434.1|chance=2500
+loot=435.1|chance=2500
+loot=425.1|chance=2500
+spell=8.170~2000|chance=15000

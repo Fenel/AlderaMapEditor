@@ -1,0 +1,13 @@
+name=Spider
+looktype=0
+corpse=49
+health=20
+maxHealth=20
+level=3
+experience=10
+speed=1800
+meleeMaxDamage=20
+defence=10
+armor=15
+loot=294.6|chance=80000
+loot=253.1|chance=5000

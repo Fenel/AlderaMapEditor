@@ -1,0 +1,12 @@
+name=Grass Snake
+looktype=1
+corpse=137
+health=11
+maxHealth=11
+level=2
+experience=5
+speed=2250
+meleeMaxDamage=10
+defence=0
+armor=10
+loot=294.6|chance=60000

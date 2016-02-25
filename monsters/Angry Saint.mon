@@ -1,0 +1,20 @@
+name=Angry Saint
+looktype=15
+corpse=140
+health=2500
+maxHealth=2500
+level=130
+experience=1700
+speed=750
+meleeMaxDamage=250
+defence=25
+armor=70
+loot=294.100|chance=90000
+loot=294.100|chance=90000
+loot=220.1|chance=2000
+loot=249.1|chance=2000
+loot=264.1|chance=2000
+loot=275.1|chance=2000
+spell=2.200~6000|chance=8000
+spell=8.300~8000|chance=10000
+spell=9.500~10000|chance=5000

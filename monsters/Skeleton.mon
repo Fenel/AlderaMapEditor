@@ -1,0 +1,13 @@
+name=Skeleton
+looktype=18
+corpse=379
+health=60
+maxHealth=60
+level=8
+experience=30
+speed=1500
+meleeMaxDamage=25
+defence=15
+armor=17
+loot=294.20|chance=85000
+loot=254.1|chance=3000

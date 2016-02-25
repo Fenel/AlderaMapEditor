@@ -1,0 +1,12 @@
+name=Snake
+looktype=3
+corpse=143
+health=11
+maxHealth=11
+level=2
+experience=5
+speed=2250
+meleeMaxDamage=14
+defence=0
+armor=14
+loot=294.5|chance=70000

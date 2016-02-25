@@ -1,0 +1,18 @@
+name=Black Dragon
+looktype=6
+corpse=295
+health=1400
+maxHealth=1400
+level=50
+experience=1000
+speed=1000
+meleeMaxDamage=150
+defence=20
+armor=50
+loot=294.100|chance=80000
+loot=294.100|chance=50000
+loot=283.1|chance=75000
+loot=268.1|chance=2500
+loot=219.1|chance=5000
+spell=4.120~4000|chance=15000
+spell=7.100~3000|chance=20000

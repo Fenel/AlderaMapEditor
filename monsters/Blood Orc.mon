@@ -1,0 +1,13 @@
+name=Blood Orc
+looktype=2
+corpse=140
+health=50
+maxHealth=50
+level=6
+experience=20
+speed=1700
+meleeMaxDamage=25
+defence=10
+armor=15
+loot=294.20|chance=75000
+loot=237.1|chance=7000

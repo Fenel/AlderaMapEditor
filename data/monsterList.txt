@@ -1,0 +1,18 @@
+id=0; name=Spider; looktype=0;
+id=1; name=Grass Snake; looktype=1;
+id=2; name=Blood Orc; looktype=2;
+id=3; name=Snake; looktype=3;
+id=4; name=Small Bug; looktype=4;
+id=4; name=Giant Worm; looktype=4;
+id=5; name=Apprentice; looktype=5;
+id=6; name=Black Dragon; looktype=6;
+id=7; name=Rat; looktype=7;
+id=8; name=Baby Dragon; looktype=9;
+id=9; name=Coockroach; looktype=10;
+id=10; name=Lost Spirit; looktype=11; 
+id=11; name=Skeleton Mage; looktype=13; 
+id=12; name=Gigantic Spider; looktype=14; 
+id=13; name=Angry Saint; looktype=15; 
+id=14; name=Armored Robber; looktype=16; 
+id=15; name=Ancient Scythe; looktype=17; 
+id=16; name=Skeleton; looktype=18; 

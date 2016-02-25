@@ -1,0 +1,13 @@
+name=Giant Worm
+looktype=4
+corpse=146
+health=40
+maxHealth=40
+level=5
+experience=20
+speed=1250
+meleeMaxDamage=20
+defence=5
+armor=10
+loot=294.15|chance=80000
+loot=217.1|chance=5000

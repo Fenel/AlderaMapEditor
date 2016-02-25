@@ -1,0 +1,15 @@
+name=Skeleton Mage
+looktype=13
+corpse=354
+health=100
+maxHealth=100
+level=8
+experience=45
+speed=1300
+meleeMaxDamage=40
+defence=17
+armor=23
+loot=294.25|chance=85000
+loot=254.1|chance=5000
+loot=233.1|chance=7000
+spell=3.10~10000|chance=25000

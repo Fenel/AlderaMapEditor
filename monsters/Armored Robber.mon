@@ -1,0 +1,16 @@
+name=Armored Robber
+looktype=16
+corpse=140
+health=420
+maxHealth=420
+level=40
+experience=350
+speed=875
+meleeMaxDamage=150
+defence=15
+armor=45
+loot=294.70|chance=80000
+loot=221.1|chance=2000
+loot=235.1|chance=2000
+loot=251.1|chance=2000
+loot=275.1|chance=2000

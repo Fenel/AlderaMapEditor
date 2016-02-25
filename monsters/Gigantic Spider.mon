@@ -1,0 +1,16 @@
+name=Gigantic Spider
+looktype=14
+corpse=49
+health=1700
+maxHealth=1700
+level=60
+experience=1200
+speed=500
+meleeMaxDamage=200
+defence=25
+armor=60
+loot=294.100|chance=100000
+loot=294.65|chance=80000
+loot=273.1|chance=2500
+loot=220.1|chance=3500
+spell=3.250~10000|chance=7000

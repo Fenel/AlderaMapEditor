@@ -1,0 +1,15 @@
+name=Lost Spirit
+looktype=11
+corpse=351
+health=300
+maxHealth=300
+level=20
+experience=180
+speed=1200
+meleeMaxDamage=120
+defence=15
+armor=45
+loot=294.75|chance=80000
+loot=235.1|chance=5000
+loot=271.1|chance=4000
+spell=2.60~5000|chance=10000

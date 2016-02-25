@@ -1,0 +1,12 @@
+name=Small Worm
+looktype=4
+corpse=146
+health=10
+maxHealth=10
+level=5
+experience=7
+speed=2000
+meleeMaxDamage=12
+defence=0
+armor=12
+loot=294.7|chance=80000

@@ -1,0 +1,15 @@
+name=Baby Dragon
+looktype=9
+corpse=345
+health=450
+maxHealth=450
+level=20
+experience=300
+speed=1000
+meleeMaxDamage=80
+defence=15
+armor=35
+loot=294.55|chance=80000
+loot=224.1|chance=4000
+spell=4.40~5000|chance=15000
+spell=7.50~4000|chance=20000

@@ -1,0 +1,12 @@
+name=Coockroach
+looktype=10
+corpse=348
+health=50
+maxHealth=50
+level=8
+experience=40
+speed=1200
+meleeMaxDamage=35
+defence=15
+armor=20
+loot=294.18|chance=80000

@@ -1,0 +1,12 @@
+name=Small Bug
+looktype=4
+corpse=146
+health=10
+maxHealth=10
+level=2
+experience=5
+speed=1600
+meleeMaxDamage=12
+defence=0
+armor=12
+loot=294.4|chance=80000
